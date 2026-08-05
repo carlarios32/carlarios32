@@ -1,5 +1,9 @@
 
 
+<img src="banner-github.png.png" width="100%">
+
+
+
 # ¡Hola! 👋 Soy Carla Ríos
 
 ## E-commerce | Marketing Digital | SEO | Automatización | IA aplicada
