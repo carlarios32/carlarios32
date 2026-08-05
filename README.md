@@ -23,7 +23,7 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web y construyen
 **Desarrollo Web**
 - HTML5
 - CSS3
-- SASS
+- SASS   
 - Git
 - GitHub
 
