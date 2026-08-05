@@ -1,16 +1,17 @@
 # ¡Hola! 👋 Soy Carla Ríos
 
-## E-commerce | Marketing Digital | SEO | Front-End
+## E-commerce | Marketing Digital | SEO | Automatización | IA aplicada
 
-Soy una profesional con experiencia en e-commerce, marketplaces, marketing digital y desarrollo web. Me apasiona combinar estrategia, tecnología y experiencia de usuario para crear soluciones digitales que generen resultados.
+Soy una profesional con experiencia en e-commerce, marketplaces, marketing digital y desarrollo web. Me apasiona combinar estrategia, tecnología y experiencia de usuario para crear soluciones digitales que impulsen el crecimiento de los negocios.
 
-Actualmente continúo ampliando mis conocimientos en desarrollo web y construyendo proyectos que complementan mi experiencia en marketing y comercio electrónico.
+Actualmente continúo ampliando mis conocimientos en automatización, inteligencia artificial aplicada y desarrollo de soluciones digitales orientadas a optimizar procesos y mejorar la eficiencia.
 
 ---
 
-## 🚀 Tecnologías
+# 🚀 Tecnologías
 
-**Marketing & E-commerce**
+### 📈 Marketing y Comercio Electrónico
+
 - SEO
 - Google Ads
 - Google Merchant Center
@@ -18,9 +19,10 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web y construyen
 - Mercado Libre
 - WooCommerce
 - WordPress
-- Automation
+- Automatización
 
-**Desarrollo Web**
+### 💻 Desarrollo Web
+
 - HTML5
 - CSS3
 - Sass
@@ -28,33 +30,39 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web y construyen
 - Git
 - GitHub
 
-**Diseño & Productividad**
+### 🎨 Diseño y Productividad
+
 - Figma
 - Canva
 
 ---
 
-## 💼 Proyecto destacado
+# 💼 Proyecto Destacado
 
-### Innovaciones Web
+## Innovaciones Web
 
-Proyecto de desarrollo web responsive desarrollado con HTML5, CSS3, Sass, Bootstrap y Git.
+Sitio web responsive desarrollado con HTML5, CSS3, Sass, Bootstrap y Git, aplicando buenas prácticas de maquetación, organización del código y diseño adaptable.
 
-🔗 https://github.com/carlarios32/Innovaciones-Web
+🔗 Repositorio:
+https://github.com/carlarios32/Innovaciones-Web
+
+🌐 Demo:
+https://carlarios32.github.io/Innovaciones-Web/
 
 ---
 
-## 🌱 Actualmente
+# 🌱 Actualmente
 
-- Desarrollando proyectos de automatización e inteligencia artificial aplicada.
+- Desarrollando proyectos relacionados con automatización e inteligencia artificial aplicada.
 - Creando soluciones para e-commerce y marketing digital.
-- Ampliando conocimientos en desarrollo web y tecnologías digitales.
+- Ampliando conocimientos en desarrollo web y nuevas tecnologías.
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
 📍 Málaga, España
+
 
 💼 LinkedIn:
 www.linkedin.com/in/carla-rios10
