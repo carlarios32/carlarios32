@@ -24,7 +24,7 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web y construyen
 - HTML5
 - CSS3
 - SASS
-- BOOTSTRAPS
+- Bootstraps
 - Git
 - GitHub
 
