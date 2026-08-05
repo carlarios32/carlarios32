@@ -23,8 +23,8 @@ Actualmente continúo ampliando mis conocimientos en desarrollo web y construyen
 **Desarrollo Web**
 - HTML5
 - CSS3
-- SAAS
-- Boot straps
+- SASS
+- BOOTSTRAPS
 - Git
 - GitHub
 
